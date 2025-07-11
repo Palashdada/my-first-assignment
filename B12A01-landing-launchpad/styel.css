@@ -6,7 +6,7 @@
   font-weight: <weight>;
   font-style: normal;
 }
-
+/* banner */
 .navbar{
     display: flex;
     justify-content: space-between;
@@ -55,6 +55,7 @@
     border-radius: 10px;
 
 }
+/* action */
 .action{
     display: flex;
     justify-content: space-between;
@@ -82,5 +83,59 @@
     background-color:#4E47FF ;
     padding: 19px 57px;
     border-radius: 10px;
+
+}
+/* user */
+.users{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 100px;
+    text-align: center;
+   
+}
+.usertitel{
+    text-align: center;
+    font-size: 38px;
+    font-weight: bold;
+    color: #252432;
+    margin-top:50px ;
+    padding-top: 120px;
+     text-align: center;
+
+
+    
+
+}
+.usertitel1{
+    font-size: 80px;
+    font-weight: bold;
+    color: #4E47FF;
+    text-align: center;
+
+
+
+}
+.usertiteldis1{
+   font-size: 20px; 
+   font-weight: 500;
+   color: #2d2c3f;
+   text-align: center;
+    
+
+   
+
+}
+.usertitel1 {
+        margin: 5px;
+        text-align: center;
+}
+.muserdiv{
+    background-color:#a8a6f5 ;
+    margin: 80px 400px;
+    border-radius:24px ;
+    text-align: center;
+ 
+
 
 }
