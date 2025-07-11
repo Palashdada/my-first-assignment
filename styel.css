@@ -31,7 +31,7 @@
     border-radius: 10px;
 }
 .banner{
-    background-image: url(Assets/Hero-bg.png); 
+    background-image: url("Assets/Hero-bg.png"); 
     padding:100px 400px ;
     
 }
@@ -252,3 +252,26 @@ text-align: center;
     color:#8987A1 
 }
 
+/* .usersay{ */
+    display: flex;
+    justify-content: center;
+}
+.hsay{
+    font-size: 42px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+.dpart{
+    display: flex;
+
+}
+.card{
+    display: flex;
+}
+/* .usersay{ */
+    display: flex;
+}
+.mcard{
+    display: flex;
+}
